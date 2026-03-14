@@ -5,6 +5,7 @@ function LinkBar(){
         <div className="text-center d-flex justify-content-evenly">
             <Link to="/">Home</Link>
             <Link to="/buysomething">Buy Something</Link>
+            <Link to="/becomeanassociate">Become An Associate</Link>
             <Link to="/about">About</Link>
         </div>
     )
