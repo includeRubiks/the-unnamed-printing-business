@@ -9,7 +9,7 @@ import {BrowserRouter, Routes, Route} from 'react-router-dom'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <BrowserRouter basename='/the-unnamed-printing-business'>
+    <BrowserRouter basename='/the-unnamed-printing-business/'>
       <Routes>
         <Route path="/" element={<HomePage></HomePage>}/>
         <Route path="/buysomething" element={<BuySomething></BuySomething>}/>
