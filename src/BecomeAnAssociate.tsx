@@ -6,7 +6,7 @@ function BecomeAnAssociate(){
             <hr></hr>
             <LinkBar></LinkBar>
             <hr></hr>
-            <h1>Get Paid to Print!</h1>
+            <h1>Get Paid for your prints!</h1>
             <hr></hr>
             <h2>Here's how:</h2>
             <h3>1. Email me at fremonade@gmail.com</h3>
