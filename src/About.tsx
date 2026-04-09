@@ -10,19 +10,14 @@ function HomePage(){
             <div className="container">
                 <div className="row">
                     <div className="text-center border col">
-                        <h2>Henry Lynch</h2>
-                        <h3>Owner</h3>
-                        <h4>Henry started the business, and thus is the owner. He transferred the CEO role to Doug, and hired Jack.</h4>
-                    </div>
-                    <div className="text-center border col">
                         <h2>Doug Mead</h2>
-                        <h3>CEO</h3>
-                        <h4>Doug is in charge of the company for the moment being, and is also the one who set up this website!</h4>
+                        <h3>CEO, CFO, and Owner</h3>
+                        <h4>Doug started the company, and is the CEO and CFO</h4>
                     </div>
                     <div className="text-center border col">
-                        <h2>Jack Joyner</h2>
-                        <h3>Salesperson - Employee of the month</h3>
-                        <h4>Jack was the first employee of the company, other than Henry. He sells the prints.</h4>
+                        <h2>Casey Moots</h2>
+                        <h3>Salesperson</h3>
+                        <h4>Sells prints. I don't know what else to say.</h4>
                     </div>
                 </div>
             </div>
